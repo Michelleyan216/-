@@ -1,0 +1,8 @@
+{
+  "name": "萌宠鹦鹉啾啾",
+  "description": "陪伴六年级小主人的智能鹦鹉啾啾。支持古诗背诵与释义、英语单词助手、生成与播放音乐、趣味投喂互动、抚摸萌宠、百变变装、以及关于世界杯和日常的智能对话。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
